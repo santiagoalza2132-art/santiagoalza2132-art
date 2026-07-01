@@ -1,20 +1,29 @@
 # ¡Hola! Soy K3I0101 👋
 
-Soy un entusiasta de la ciberseguridad y el desarrollo de software, siempre buscando aprender y construir soluciones innovadoras. Me apasiona explorar nuevas tecnologías y contribuir a proyectos que generen un impacto positivo.
+Soy un entusiasta de la ciberseguridad y el desarrollo de software, siempre buscando aprender y construir soluciones innovadoras. Me apasiona explorar nuevas tecnologías y contribuir a proyectos que generen un impacto positivo en el ámbito de la seguridad digital.
 
 ## Sobre Mí
 
-- 💻 **Desarrollador de Software**: Con experiencia en [menciona lenguajes o tecnologías clave, ej. Python, C++, JavaScript].
-- 🔒 **Ciberseguridad**: Interesado en la detección de malware, análisis de vulnerabilidades y protección de sistemas.
-- 🌱 **Aprendizaje Continuo**: Siempre abierto a nuevos desafíos y a expandir mis conocimientos en el ámbito tecnológico.
+- 💻 **Desarrollador de Software**: Enfoque en Python y herramientas de automatización.
+- 🔒 **Ciberseguridad**: Especializado en detección de malware, auditoría de redes y criptografía aplicada.
+- 🌱 **Aprendizaje Continuo**: Actualmente profundizando en análisis forense y seguridad en la nube.
 
-## Mis Proyectos Destacados
+## Proyectos Destacados
 
-### KAntivirus
+A continuación, presento algunos de mis proyectos más significativos, enfocados en diferentes áreas de la ciberseguridad:
 
-Un proyecto en fase beta para la detección y mitigación de diversas amenazas de malware. Explora cómo funciona y contribuye a su mejora.
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| [**PyShield**](https://github.com/santiagoalza2132-art/PyShield) | Escáner de red y auditor de seguridad para identificar dispositivos y puertos vulnerables. | Python, Scapy |
+| [**SentinelLog**](https://github.com/santiagoalza2132-art/SentinelLog) | Analizador de logs de seguridad que detecta patrones de ataque como SQLi, XSS y Fuerza Bruta. | Python, Regex |
+| [**CryptosVault**](https://github.com/santiagoalza2132-art/CryptosVault) | Gestor de archivos cifrados utilizando AES-256 GCM para máxima confidencialidad. | Python, PyCryptodome |
+| [**KAntivirus**](https://github.com/santiagoalza2132-art/KAntivirus) | Herramienta de detección de amenazas de malware en fase beta. | Ejecutable (.exe) |
 
-[Ver KAntivirus](https://github.com/santiagoalza2132-art/KAntivirus)
+## Habilidades Técnicas
+
+- **Lenguajes**: Python, Shell Scripting.
+- **Seguridad**: Análisis de Logs, Auditoría de Redes, Criptografía, Detección de Malware.
+- **Herramientas**: Git, GitHub, Scapy, PyCryptodome.
 
 ## Conéctate Conmigo
 
