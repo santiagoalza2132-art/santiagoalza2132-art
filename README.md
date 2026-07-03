@@ -1,31 +1,39 @@
 # ¡Hola! Soy K3I0101 👋
 
-Soy un entusiasta de la ciberseguridad y el desarrollo de software, siempre buscando aprender y construir soluciones innovadoras. Me apasiona explorar nuevas tecnologías y contribuir a proyectos que generen un impacto positivo en el ámbito de la seguridad digital.
+Soy un apasionado de la **ciberseguridad avanzada** y el desarrollo de software de alto impacto. Mi enfoque se centra en la creación de herramientas robustas que desafían los estándares de seguridad actuales, explorando desde técnicas de evasión hasta sistemas de detección en tiempo real y arquitecturas distribuidas.
 
 ## Sobre Mí
 
-- 💻 **Desarrollador de Software**: Enfoque en Python y herramientas de automatización.
-- 🔒 **Ciberseguridad**: Especializado en detección de malware, auditoría de redes y criptografía aplicada.
-- 🌱 **Aprendizaje Continuo**: Actualmente profundizando en análisis forense y seguridad en la nube.
+- 🛡️ **Especialista en Seguridad Ofensiva y Defensiva**: Desarrollo de frameworks para investigación de vulnerabilidades y protección de sistemas.
+- 🏗️ **Arquitecto de Soluciones**: Experiencia en el diseño de microservicios dockerizados y automatización de procesos de seguridad.
+- 🔍 **Investigador**: Siempre explorando nuevas fronteras en AV Evasion, HIDS y análisis dinámico de amenazas.
 
-## Proyectos Destacados
+## Proyectos de Alto Impacto 🚀
 
-A continuación, presento algunos de mis proyectos más significativos, enfocados en diferentes áreas de la ciberseguridad:
+Aquí presento mis proyectos más avanzados, diseñados para demostrar un dominio técnico profundo:
+
+| Proyecto | Nivel | Descripción | Tecnologías Clave |
+| :--- | :---: | :--- | :--- |
+| [**BlackWidow**](https://github.com/santiagoalza2132-art/BlackWidow) | 🔴 Avanzado | Framework de evasión (AV Evasion) que utiliza ofuscación polimórfica y cifrado XOR. | Python, Obfuscation, Cryptography |
+| [**HydraWatch**](https://github.com/santiagoalza2132-art/HydraWatch) | 🔴 Avanzado | Sistema HIDS de monitoreo de integridad en tiempo real con alertas críticas de hashing. | Python, Watchdog, Real-time |
+| [**VortexScan**](https://github.com/santiagoalza2132-art/VortexScan) | 🔴 Avanzado | Escáner de vulnerabilidades distribuido y dockerizado con arquitectura de microservicios. | Docker, Microservices, Python |
+
+## Otros Proyectos Sólidos
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| [**PyShield**](https://github.com/santiagoalza2132-art/PyShield) | Escáner de red y auditor de seguridad para identificar dispositivos y puertos vulnerables. | Python, Scapy |
-| [**SentinelLog**](https://github.com/santiagoalza2132-art/SentinelLog) | Analizador de logs de seguridad que detecta patrones de ataque como SQLi, XSS y Fuerza Bruta. | Python, Regex |
-| [**CryptosVault**](https://github.com/santiagoalza2132-art/CryptosVault) | Gestor de archivos cifrados utilizando AES-256 GCM para máxima confidencialidad. | Python, PyCryptodome |
-| [**KAntivirus**](https://github.com/santiagoalza2132-art/KAntivirus) | Herramienta de detección de amenazas de malware en fase beta. | Ejecutable (.exe) |
+| [**PyShield**](https://github.com/santiagoalza2132-art/PyShield) | Auditoría de redes y escaneo de puertos vulnerables. | Python, Scapy |
+| [**SentinelLog**](https://github.com/santiagoalza2132-art/SentinelLog) | Detección de patrones de ataque en logs de servidores. | Python, Regex |
+| [**CryptosVault**](https://github.com/santiagoalza2132-art/CryptosVault) | Gestión segura de archivos con cifrado AES-256 GCM. | Python, PyCryptodome |
 
-## Habilidades Técnicas
+## Habilidades Técnicas Maestras
 
-- **Lenguajes**: Python, Shell Scripting.
-- **Seguridad**: Análisis de Logs, Auditoría de Redes, Criptografía, Detección de Malware.
-- **Herramientas**: Git, GitHub, Scapy, PyCryptodome.
+- **Lenguajes**: Python (Avanzado), Bash, SQL.
+- **Seguridad**: AV Evasion, HIDS/NIDS, Criptografía Aplicada, Pentesting Web.
+- **Infraestructura**: Docker, Docker Compose, Microservicios, GitHub Actions (CI/CD).
 
 ## Conéctate Conmigo
 
 - GitHub: [santiagoalza2132-art](https://github.com/santiagoalza2132-art)
-- [Añade aquí tus otras redes sociales o enlaces de contacto, ej. LinkedIn, Twitter, Portfolio]
+- [Añade aquí tu LinkedIn para contacto profesional]
+- [Tu sitio web o blog de ciberseguridad]
