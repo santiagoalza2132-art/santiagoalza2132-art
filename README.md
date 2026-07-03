@@ -6,7 +6,7 @@ Soy un apasionado de la **ciberseguridad avanzada** y el desarrollo de software 
 
 - 🛡️ **Especialista en Seguridad Ofensiva y Defensiva**: Desarrollo de frameworks para investigación de vulnerabilidades y protección de sistemas.
 - 🏗️ **Arquitecto de Soluciones**: Experiencia en el diseño de microservicios dockerizados y automatización de procesos de seguridad.
-- 🔍 **Investigador**: Siempre explorando nuevas fronteras en AV Evasion, HIDS y análisis dinámico de amenazas.
+- 🔍 **Investigador**: Siempre explorando nuevas fronteras en AV Evasion, HIDS, OSINT y análisis dinámico de amenazas.
 
 ## Proyectos de Alto Impacto 🚀
 
@@ -14,6 +14,7 @@ Aquí presento mis proyectos más avanzados, diseñados para demostrar un domini
 
 | Proyecto | Nivel | Descripción | Tecnologías Clave |
 | :--- | :---: | :--- | :--- |
+| [**Nebula**](https://github.com/santiagoalza2132-art/Nebula) | 💎 Élite | Plataforma de ciberinteligencia (CTI) y OSINT que agrega datos de múltiples APIs y realiza web scraping. | Python, Docker, APIs (VirusTotal, Shodan), Web Scraping |
 | [**BlackWidow**](https://github.com/santiagoalza2132-art/BlackWidow) | 🔴 Avanzado | Framework de evasión (AV Evasion) que utiliza ofuscación polimórfica y cifrado XOR. | Python, Obfuscation, Cryptography |
 | [**HydraWatch**](https://github.com/santiagoalza2132-art/HydraWatch) | 🔴 Avanzado | Sistema HIDS de monitoreo de integridad en tiempo real con alertas críticas de hashing. | Python, Watchdog, Real-time |
 | [**VortexScan**](https://github.com/santiagoalza2132-art/VortexScan) | 🔴 Avanzado | Escáner de vulnerabilidades distribuido y dockerizado con arquitectura de microservicios. | Docker, Microservices, Python |
@@ -28,8 +29,8 @@ Aquí presento mis proyectos más avanzados, diseñados para demostrar un domini
 
 ## Habilidades Técnicas Maestras
 
-- **Lenguajes**: Python (Avanzado), Bash, SQL.
-- **Seguridad**: AV Evasion, HIDS/NIDS, Criptografía Aplicada, Pentesting Web.
+- **Lenguajes**: Python (Experto), Bash, SQL.
+- **Seguridad**: Ciberinteligencia (OSINT/CTI), AV Evasion, HIDS/NIDS, Criptografía Aplicada, Pentesting Web.
 - **Infraestructura**: Docker, Docker Compose, Microservicios, GitHub Actions (CI/CD).
 
 ## Conéctate Conmigo
