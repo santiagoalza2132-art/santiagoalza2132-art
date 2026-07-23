@@ -15,6 +15,11 @@ Aquí presento mis proyectos más avanzados, diseñados para demostrar un domini
 | Proyecto | Nivel | Descripción | Tecnologías Clave |
 | :--- | :---: | :--- | :--- |
 | [**Nebula**](https://github.com/santiagoalza2132-art/Nebula) | 💎 Élite | Plataforma de ciberinteligencia (CTI) y OSINT que agrega datos de múltiples APIs y realiza web scraping. | Python, Docker, APIs (VirusTotal, Shodan), Web Scraping |
+| [**GhostC2**](https://github.com/santiagoalza2132-art/GhostC2) | 🔴 Avanzado | Framework de Comando y Control (C2) sigiloso para comunicación encubierta. | Python, Flask, Docker, Redes |
+| [**CloudSentry**](https://github.com/santiagoalza2132-art/CloudSentry) | 🔴 Avanzado | Auditor de seguridad multi-nube para AWS/Azure que detecta configuraciones erróneas. | Python, AWS Boto3, Azure SDK, Docker |
+| [**DeepPhish**](https://github.com/santiagoalza2132-art/DeepPhish) | 🔴 Avanzado | Analizador de correos electrónicos impulsado por IA para detectar intentos de phishing. | Python, Email Parsing, VirusTotal API, Docker |
+| [**ForensicKit**](https://github.com/santiagoalza2132-art/ForensicKit) | 🔴 Avanzado | Utilidad para recolectar y analizar artefactos forenses tras un incidente. | Python, psutil, Forense Digital, Docker |
+| [**SecureChain**](https://github.com/santiagoalza2132-art/SecureChain) | 🔴 Avanzado | Escáner de cadena de suministro de software para vulnerabilidades y typosquatting. | Python, NVD API, Typosquatting, Docker |
 | [**BlackWidow**](https://github.com/santiagoalza2132-art/BlackWidow) | 🔴 Avanzado | Framework de evasión (AV Evasion) que utiliza ofuscación polimórfica y cifrado XOR. | Python, Obfuscation, Cryptography |
 | [**HydraWatch**](https://github.com/santiagoalza2132-art/HydraWatch) | 🔴 Avanzado | Sistema HIDS de monitoreo de integridad en tiempo real con alertas críticas de hashing. | Python, Watchdog, Real-time |
 | [**VortexScan**](https://github.com/santiagoalza2132-art/VortexScan) | 🔴 Avanzado | Escáner de vulnerabilidades distribuido y dockerizado con arquitectura de microservicios. | Docker, Microservices, Python |
@@ -30,7 +35,7 @@ Aquí presento mis proyectos más avanzados, diseñados para demostrar un domini
 ## Habilidades Técnicas Maestras
 
 - **Lenguajes**: Python (Experto), Bash, SQL.
-- **Seguridad**: Ciberinteligencia (OSINT/CTI), AV Evasion, HIDS/NIDS, Criptografía Aplicada, Pentesting Web.
+- **Seguridad**: Ciberinteligencia (OSINT/CTI), AV Evasion, HIDS/NIDS, Criptografía Aplicada, Pentesting Web, Seguridad en la Nube, Forense Digital, Respuesta a Incidentes, Seguridad de Cadena de Suministro, Operaciones C2.
 - **Infraestructura**: Docker, Docker Compose, Microservicios, GitHub Actions (CI/CD).
 
 ## Conéctate Conmigo
