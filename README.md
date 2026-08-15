@@ -34,7 +34,7 @@ Aquí presento mis proyectos más avanzados, diseñados para demostrar un domini
 
 ## Habilidades Técnicas Maestras
 
-- **Lenguajes**: Python (Experto), Bash, SQL.
+- **Lenguajes**: Python (Experto),java(Novato), Bash, SQL.
 - **Seguridad**: Ciberinteligencia (OSINT/CTI), AV Evasion, HIDS/NIDS, Criptografía Aplicada, Pentesting Web, Seguridad en la Nube, Forense Digital, Respuesta a Incidentes, Seguridad de Cadena de Suministro, Operaciones C2.
 - **Infraestructura**: Docker, Docker Compose, Microservicios, GitHub Actions (CI/CD).
 
