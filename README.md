@@ -41,5 +41,4 @@ Aquí presento mis proyectos más avanzados, diseñados para demostrar un domini
 ## Conéctate Conmigo
 
 - GitHub: [santiagoalza2132-art](https://github.com/santiagoalza2132-art)
-- [Añade aquí tu LinkedIn para contacto profesional]
-- [Tu sitio web o blog de ciberseguridad]
+
