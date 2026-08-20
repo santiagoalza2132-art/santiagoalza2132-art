@@ -1,44 +1,59 @@
-# ¡Hola! Soy K3I0101 👋
+# K3I0101 · Ingeniería de datos y ciberseguridad
 
-Soy un apasionado de la **ciberseguridad avanzada** y el desarrollo de software de alto impacto. Mi enfoque se centra en la creación de herramientas robustas que desafían los estándares de seguridad actuales, explorando desde técnicas de evasión hasta sistemas de detección en tiempo real y arquitecturas distribuidas.
+Construyo herramientas **reproducibles, medibles y orientadas a la defensa** para convertir datos operativos en decisiones seguras. Mi trabajo combina bases de datos, análisis estadístico, observabilidad, gobierno de datos y automatización de controles.
 
-## Sobre Mí
+> **Objetivo:** diseñar sistemas que sean rápidos de inspeccionar, fáciles de probar y claros de mantener.
 
-- 🛡️ **Especialista en Seguridad Ofensiva y Defensiva**: Desarrollo de frameworks para investigación de vulnerabilidades y protección de sistemas.
-- 🏗️ **Arquitecto de Soluciones**: Experiencia en el diseño de microservicios dockerizados y automatización de procesos de seguridad.
-- 🔍 **Investigador**: Siempre explorando nuevas fronteras en AV Evasion, HIDS, OSINT y análisis dinámico de amenazas.
+## Enfoque actual
 
-## Proyectos de Alto Impacto 🚀
+| Área | Qué desarrollo | Señales técnicas |
+|---|---|---|
+| Bases de datos | Rendimiento, linaje, calidad y revisión preventiva de SQL | PostgreSQL, SQL, Python, modelado |
+| Ciberseguridad defensiva | Detección, respuesta, inteligencia y seguridad de cadena de suministro | HIDS, CTI, análisis de logs, cloud |
+| Análisis | Anomalías explicables, métricas y priorización de riesgos | Estadística, JSON, pipelines |
+| Futuro | Privacidad, Zero Trust, automatización y datos preparados para IA | Data governance, CI, Docker |
 
-Aquí presento mis proyectos más avanzados, diseñados para demostrar un dominio técnico profundo:
+## Portafolio destacado
 
-| Proyecto | Nivel | Descripción | Tecnologías Clave |
-| :--- | :---: | :--- | :--- |
-| [**Nebula**](https://github.com/santiagoalza2132-art/Nebula) | 💎 Élite | Plataforma de ciberinteligencia (CTI) y OSINT que agrega datos de múltiples APIs y realiza web scraping. | Python, Docker, APIs (VirusTotal, Shodan), Web Scraping |
-| [**GhostC2**](https://github.com/santiagoalza2132-art/GhostC2) | 🔴 Avanzado | Framework de Comando y Control (C2) sigiloso para comunicación encubierta. | Python, Flask, Docker, Redes |
-| [**CloudSentry**](https://github.com/santiagoalza2132-art/CloudSentry) | 🔴 Avanzado | Auditor de seguridad multi-nube para AWS/Azure que detecta configuraciones erróneas. | Python, AWS Boto3, Azure SDK, Docker |
-| [**DeepPhish**](https://github.com/santiagoalza2132-art/DeepPhish) | 🔴 Avanzado | Analizador de correos electrónicos impulsado por IA para detectar intentos de phishing. | Python, Email Parsing, VirusTotal API, Docker |
-| [**ForensicKit**](https://github.com/santiagoalza2132-art/ForensicKit) | 🔴 Avanzado | Utilidad para recolectar y analizar artefactos forenses tras un incidente. | Python, psutil, Forense Digital, Docker |
-| [**SecureChain**](https://github.com/santiagoalza2132-art/SecureChain) | 🔴 Avanzado | Escáner de cadena de suministro de software para vulnerabilidades y typosquatting. | Python, NVD API, Typosquatting, Docker |
-| [**BlackWidow**](https://github.com/santiagoalza2132-art/BlackWidow) | 🔴 Avanzado | Framework de evasión (AV Evasion) que utiliza ofuscación polimórfica y cifrado XOR. | Python, Obfuscation, Cryptography |
-| [**HydraWatch**](https://github.com/santiagoalza2132-art/HydraWatch) | 🔴 Avanzado | Sistema HIDS de monitoreo de integridad en tiempo real con alertas críticas de hashing. | Python, Watchdog, Real-time |
-| [**VortexScan**](https://github.com/santiagoalza2132-art/VortexScan) | 🔴 Avanzado | Escáner de vulnerabilidades distribuido y dockerizado con arquitectura de microservicios. | Docker, Microservices, Python |
+| Proyecto | Categoría | Descripción |
+|---|---|---|
+| [QueryPulse](https://github.com/santiagoalza2132-art/QueryPulse) | Bases de datos | Métricas de latencia y detección de outliers en consultas. |
+| [LineageGraph](https://github.com/santiagoalza2132-art/LineageGraph) | Datos | Linaje auditable entre fuentes, transformaciones y destinos. |
+| [SQLGuard](https://github.com/santiagoalza2132-art/SQLGuard) | Datos seguros | Revisión estática de patrones SQL que requieren atención. |
+| [ThreatLake](https://github.com/santiagoalza2132-art/ThreatLake) | Ciberseguridad | Normalización de eventos para lagos de datos de seguridad. |
+| [FraudLens](https://github.com/santiagoalza2132-art/FraudLens) | Análisis | Detección explicable de anomalías transaccionales. |
+| [PrivacyRadar](https://github.com/santiagoalza2132-art/PrivacyRadar) | Privacidad | Clasificación local de posibles datos personales. |
+| [ZeroTrustMetrics](https://github.com/santiagoalza2132-art/ZeroTrustMetrics) | Seguridad | Métricas reproducibles para controles de identidad y acceso. |
+| [SecureChain](https://github.com/santiagoalza2132-art/SecureChain) | Supply chain | Revisión de dependencias y riesgos de typosquatting. |
+| [ForensicKit](https://github.com/santiagoalza2132-art/ForensicKit) | Forense | Recolección y análisis de artefactos tras incidentes. |
+| [DeepPhish](https://github.com/santiagoalza2132-art/DeepPhish) | Detección | Análisis de señales de phishing en correo. |
+| [CloudSentry](https://github.com/santiagoalza2132-art/CloudSentry) | Cloud security | Auditoría de configuraciones de seguridad en nube. |
+| [Nebula](https://github.com/santiagoalza2132-art/Nebula) | CTI | Agregación y visualización de inteligencia de amenazas. |
+| [VortexScan](https://github.com/santiagoalza2132-art/VortexScan) | AppSec | Arquitectura distribuida para pruebas autorizadas. |
+| [HydraWatch](https://github.com/santiagoalza2132-art/HydraWatch) | HIDS | Monitoreo de integridad y alertas de cambios. |
+| [CryptosVault](https://github.com/santiagoalza2132-art/CryptosVault) | Criptografía | Protección de archivos con cifrado autenticado. |
+| [SentinelLog](https://github.com/santiagoalza2132-art/SentinelLog) | Observabilidad | Detección de patrones en logs de seguridad. |
+| [PyShield](https://github.com/santiagoalza2132-art/PyShield) | Redes | Auditoría de redes en entornos propios y autorizados. |
+| [KAntivirus](https://github.com/santiagoalza2132-art/KAntivirus) | Defensa | Investigación de señales y mitigaciones contra malware. |
+| [GhostC2](https://github.com/santiagoalza2132-art/GhostC2) | Investigación | Laboratorio controlado de protocolos y telemetría. |
+| [BlackWidow](https://github.com/santiagoalza2132-art/BlackWidow) | Investigación | Laboratorio de análisis de evasión para mejorar detecciones. |
 
-## Otros Proyectos Sólidos
+## Principios de ingeniería
 
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| [**PyShield**](https://github.com/santiagoalza2132-art/PyShield) | Auditoría de redes y escaneo de puertos vulnerables. | Python, Scapy |
-| [**SentinelLog**](https://github.com/santiagoalza2132-art/SentinelLog) | Detección de patrones de ataque en logs de servidores. | Python, Regex |
-| [**CryptosVault**](https://github.com/santiagoalza2132-art/CryptosVault) | Gestión segura de archivos con cifrado AES-256 GCM. | Python, PyCryptodome |
+Todos los proyectos públicos incluyen documentación, licencia de autor y una orientación explícita hacia el aprendizaje, la validación reproducible y el uso autorizado. Las herramientas de seguridad deben ejecutarse únicamente sobre sistemas propios o con permiso documentado.
 
-## Habilidades Técnicas Maestras
+## Tecnologías
 
-- **Lenguajes**: Python (Experto),java(Novato), Bash, SQL.
-- **Seguridad**: Ciberinteligencia (OSINT/CTI), AV Evasion, HIDS/NIDS, Criptografía Aplicada, Pentesting Web, Seguridad en la Nube, Forense Digital, Respuesta a Incidentes, Seguridad de Cadena de Suministro, Operaciones C2.
-- **Infraestructura**: Docker, Docker Compose, Microservicios, GitHub Actions (CI/CD).
+`Python` · `SQL` · `PostgreSQL` · `SQLite` · `Docker` · `Linux` · `GitHub Actions` · `JSON` · `Análisis estadístico` · `Observabilidad` · `Cloud security`
 
-## Conéctate Conmigo
+## Contacto
 
-- GitHub: [santiagoalza2132-art](https://github.com/santiagoalza2132-art)
+**k3i0101.sa@gmail.com**
 
+## Licencia
+
+Cada repositorio declara su propia licencia. Los siete proyectos nuevos usan **MIT**, con atribución a **K3I0101 <k3i0101.sa@gmail.com>**.
+
+---
+
+*Portafolio en evolución: datos confiables, controles verificables y seguridad práctica.*
