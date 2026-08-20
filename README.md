@@ -13,6 +13,12 @@ Construyo herramientas **reproducibles, medibles y orientadas a la defensa** par
 | Análisis | Anomalías explicables, métricas y priorización de riesgos | Estadística, JSON, pipelines |
 | Futuro | Privacidad, Zero Trust, automatización y datos preparados para IA | Data governance, CI, Docker |
 
+## Proyecto insignia
+
+| Proyecto | Propuesta | Enlace |
+|---|---|---|
+| [OmniRun](https://github.com/santiagoalza2132-art/OmniRun) | Una configuración para ejecutar tareas en Linux, Windows y macOS sin duplicar scripts Bash, PowerShell y CMD. Incluye planificación segura, rutas portables y overrides por sistema. | [Abrir proyecto](https://github.com/santiagoalza2132-art/OmniRun) |
+
 ## Portafolio destacado
 
 | Proyecto | Categoría | Descripción |
