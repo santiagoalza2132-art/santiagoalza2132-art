@@ -1,6 +1,6 @@
-# K3I0101 · Ingeniería de datos y ciberseguridad
+# OmniRun · Ingeniería multiplataforma, datos y ciberseguridad
 
-Construyo herramientas **reproducibles, medibles y orientadas a la defensa** para convertir datos operativos en decisiones seguras. Mi trabajo combina bases de datos, análisis estadístico, observabilidad, gobierno de datos y automatización de controles.
+**OmniRun** es mi laboratorio de ingeniería para crear herramientas reproducibles, multiplataforma y orientadas a la defensa. Desarrollo soluciones que conectan Linux, Windows y macOS con datos confiables, automatización segura y compatibilidad práctica.
 
 > **Objetivo:** diseñar sistemas que sean rápidos de inspeccionar, fáciles de probar y claros de mantener.
 
