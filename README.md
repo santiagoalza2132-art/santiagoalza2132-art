@@ -1,6 +1,6 @@
-# OmniRun · Ingeniería multiplataforma, datos y ciberseguridad
+# OmniRun · por K3I0101
 
-**OmniRun** es mi laboratorio de ingeniería para crear herramientas reproducibles, multiplataforma y orientadas a la defensa. Desarrollo soluciones que conectan Linux, Windows y macOS con datos confiables, automatización segura y compatibilidad práctica.
+**OmniRun**, creado por **K3I0101**, es mi laboratorio de ingeniería para crear herramientas reproducibles, multiplataforma y orientadas a la defensa. Desarrollo soluciones que conectan Linux, Windows y macOS con datos confiables, automatización segura y compatibilidad práctica.
 
 > **Objetivo:** diseñar sistemas que sean rápidos de inspeccionar, fáciles de probar y claros de mantener.
 
