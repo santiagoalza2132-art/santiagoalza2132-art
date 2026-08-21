@@ -17,7 +17,7 @@
 
 | Proyecto | Propuesta | Enlace |
 |---|---|---|
-| [OmniRun](https://github.com/santiagoalza2132-art/OmniRun) | Una configuración para ejecutar tareas en Linux, Windows y macOS sin duplicar scripts Bash, PowerShell y CMD. Incluye planificación segura, rutas portables y overrides por sistema. | [Abrir proyecto](https://github.com/santiagoalza2132-art/OmniRun) |
+| [OmniRun](https://github.com/santiagoalza2132-art/OmniRun) | Una herramienta Java 2.0.1 para ejecutar tareas en Linux, Windows y macOS sin duplicar scripts Bash, PowerShell y CMD. Incluye planificación segura, rutas portables, diagnóstico y paquetes de instalación sencillos. | [Abrir proyecto](https://github.com/santiagoalza2132-art/OmniRun) |
 | [OmniRun Mobile](https://8081-i4hlxxaw62jxet8mfvvcz-b6aa0e0b.us3.manus.computer) | Aplicación móvil para revisar proyectos, validar manifiestos y preparar planes seguros desde Android, iOS o web móvil. | [Abrir app móvil](https://8081-i4hlxxaw62jxet8mfvvcz-b6aa0e0b.us3.manus.computer) |
 
 ## Portafolio destacado
@@ -55,7 +55,7 @@ Todos los proyectos públicos incluyen documentación, licencia de autor y una o
 
 ## OmniRun en computadora y móvil
 
-[Descarga OmniRun para Windows, macOS y Linux](https://github.com/santiagoalza2132-art/OmniRun/releases/latest) · [Abre OmniRun Mobile](https://8081-i4hlxxaw62jxet8mfvvcz-b6aa0e0b.us3.manus.computer)
+[Descarga OmniRun 2.0.1 para Windows, macOS y Linux](https://github.com/santiagoalza2132-art/OmniRun/releases/latest) · [Abre OmniRun Mobile](https://8081-i4hlxxaw62jxet8mfvvcz-b6aa0e0b.us3.manus.computer)
 
 La computadora ejecuta las tareas localmente; el móvil permite revisar el estado, validar configuraciones y preparar planes seguros.
 
